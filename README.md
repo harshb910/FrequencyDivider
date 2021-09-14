@@ -18,4 +18,9 @@ So frequency of resultant waveform is,
 Frequency = 1/T
           = 1/0.287
           = 3.48 Hz ~ 3.5Hz
-    
+          
+          
+
+
+RTL Design of it is as:
+![](https://github.com/harshb910/FrequencyDivider/blob/main/rtl-design.jpg)
